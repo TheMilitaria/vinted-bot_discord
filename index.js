@@ -229,4 +229,4 @@ client.on('interactionCreate', (interaction) => {
     }
 });
 
-client.login(process.env.OTkxNzQwNzE2MDEzMzIyMjk0.G3IRpQ.EFuMGQ4us2fxFK0R7kYtkhRqq_zLlSO6Nz7 - Wk);
+client.login(process.env.TOKEN);
